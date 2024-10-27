@@ -22,13 +22,13 @@ const Footer = () => {
       <SocialContainer>
         <FooterTitle>Follow Me</FooterTitle>
         <IconsWrapper>
-          <IconLink href="https://www.facebook.com/" target="_blank">
+          <IconLink href="https://www.facebook.com/share/ZEnHXdeXs2TyqdES/" target="_blank">
             <StyledIcon as={FaFacebook} />
           </IconLink>
-          <IconLink href="https://www.linkedin.com/" target="_blank">
+          <IconLink href="https://www.linkedin.com/in/anuj-dhanuka-1b0598155/" target="_blank">
             <StyledIcon as={FaLinkedin} />
           </IconLink>
-          <IconLink href="https://www.instagram.com/" target="_blank">
+          <IconLink href="https://www.instagram.com/anuj_dhanuka?igsh=MXJpcWp2bmk4dzdzOQ==" target="_blank">
             <StyledIcon as={FaInstagram} />
           </IconLink>
         </IconsWrapper>
